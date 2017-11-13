@@ -8,8 +8,4 @@ Our System machine learns, using Bagged Trees, on sponsor given data and then pr
 
 Input: Data (.txt)
 
-Output:\n # of correct Compressor decay predictions
-       \n # of correct Turbine decay predictions
-       \n % Compressor correct
-       \n % Turbine correct
-       \n - Pie charts to display these values
+Output: # of correct Compressor decay predictions, # of correct Turbine decay predictions, % Compressor correct, % Turbine correct, Pie charts to display these values, Confusion Matrices
